@@ -1,0 +1,11 @@
+C:\Users\Big Daddy B\OneDrive\GitHub\rust_tutorial\rusty_app\target\debug\deps\socket2-b7c85772bb520a9e.rmeta: C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\lib.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sockaddr.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\socket.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sockref.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sys\windows.rs
+
+C:\Users\Big Daddy B\OneDrive\GitHub\rust_tutorial\rusty_app\target\debug\deps\libsocket2-b7c85772bb520a9e.rlib: C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\lib.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sockaddr.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\socket.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sockref.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sys\windows.rs
+
+C:\Users\Big Daddy B\OneDrive\GitHub\rust_tutorial\rusty_app\target\debug\deps\socket2-b7c85772bb520a9e.d: C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\lib.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sockaddr.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\socket.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sockref.rs C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sys\windows.rs
+
+C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\lib.rs:
+C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sockaddr.rs:
+C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\socket.rs:
+C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sockref.rs:
+C:\Users\Big\ Daddy\ B\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.4.7\src\sys\windows.rs:
